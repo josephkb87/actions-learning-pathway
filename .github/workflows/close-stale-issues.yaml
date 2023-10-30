@@ -4,12 +4,5 @@ jobs:
   hello-world-job:
     runs-on: ubuntu-latest
     steps: 
-      - name: Check out repository code
-        uses: actions/checkout@v3
-      - run: echo "$(cat hello_world.txt)"
-      - name: use node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18.x'
-      - name: Close Stale Issues
-        uses: actions/stale@v8.0.0
+    - name: Close Stale Issues
+      uses: actions/stale@v8.0.0
