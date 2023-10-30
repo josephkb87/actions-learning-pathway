@@ -1,4 +1,6 @@
-[![build-test-deploy](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/build-test-deploy.yml/badge.svg)](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/build-test-deploy.yml)
+[![build-test-deploy](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/build-test-deploy.yml/badge.svg)](https://github.com/josephkb87/actions-learning-pathway/actions/workflows/build-test-deploy.yml) 
+
+Thank you for helping make this work better and safe for everyone by checking it out here.
 
 ## Essentials of GitHub Actions learning pathway demo repository
 
